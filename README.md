@@ -5,5 +5,7 @@
 
 - 📫 How to reach me **kumararyan4927@gmail.com**
 
+- 📸 Social Media **Instagram && Discord aryan_not_ethical** 
+
 - ⚡ Fun fact **Im 15 years old.**
 
