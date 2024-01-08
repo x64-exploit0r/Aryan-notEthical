@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aryan</h1>
 <h3 align="center">A Cyber Security Student, Exploit Creator And Python Programmer.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aryan-notethical" alt="aryan-notethical" /></a> </p>
-
 - 💬 Ask me about **Coding, Space, Exploits, Hacking.**
 
 - 📫 How to reach me **kumararyan4927@gmail.com**
