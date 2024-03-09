@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/aryan_not_ethical" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aryan_not_ethical" height="30" width="40" /></a>
+<a href="https://instagram.com/x64_exploit0r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aryan_not_ethical" height="30" width="40" /></a>
 <a href="https://discord.gg/3R8qyMeDS5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="3R8qyMeDS5" height="30" width="40" /></a>
 </p>
 
