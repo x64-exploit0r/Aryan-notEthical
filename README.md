@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aryan</h1>
-<h3 align="center">Student of Cyber Security And A Exploit Creator</h3>
+<h3 align="center">Student Of Cyber Security And Exploit Creator</h3>
 
 - 💬 Ask me about **Coding, Space, Malware, Hacking and Businesses**
 
