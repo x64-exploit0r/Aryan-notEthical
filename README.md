@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aryan</h1>
 <h3 align="center">Student Of Cyber Security And Exploit Creator</h3>
 
-- 💬 Ask me about **Coding, Space, Malware, Hacking and Businesses**
+- 💬 Ask me about **Coding, Universe, Malware, Hacking and Businesses**
 
 - 📫 How to reach me **kumararyan4927@gmail.com**
 
