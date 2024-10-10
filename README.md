@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aryan</h1>
-<h3 align="center">Security Researcher And Exploit Creator</h3>
+<h3 align="center">Exploit Developer</h3>
 
 - 💬 Ask me about **Coding, Universe, Malware, Hacking and Businesses**
 
