@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aryan</h1>
 <h3 align="center">Exploit Developer</h3>
 
-- 💬 Ask me about **Coding, Universe, Malware, Hacking and Businesses**
+- 💬 Interested in **Social Engineering Universe, Malware Development/Analysis, Hardware Hacking and Businesses**
 
 - 📫 How to reach me **kumararyan4927@gmail.com**
 
