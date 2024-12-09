@@ -3,8 +3,6 @@
 
 - 💬 Interested in - **Social Engineering, Universe, Malware Dev/Analysis, Hardware Hacking and Businesses**
 
-- 📫 How to reach me - **kumararyan4927@gmail.com**
-
 - ⚡ Fun fact **I'm 15**
 
 <h3 align="left">Connect with me:</h3>
