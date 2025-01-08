@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aryan</h1>
 <h3 align="center">Exploit Developer</h3>
 
-- 💬 Interested in - **Social Engineering, Universe, Malware Dev/Analysis, Hardware Hacking and Businesses**
+- 💬 Interested in - **Social Engineering, Reverse Engineering, Malware Dev/Analysis, Hardware Hacking**
 
 - ⚡ Fun fact **I'm 15**
 
